@@ -1,0 +1,24 @@
+Route,Collection Day,FullAddress,Post Code,Position,Stop No,Stop Name,NA Name,MStop Name
+101,MONDAY,"Abraham Moss Library, Manchester",M8 5UF,1,S001,Abraham Moss,Sample Location 01,Abraham Moss Library
+101,MONDAY,"Arcadia Library, Manchester",M19 3PH,2,S002,Arcadia,Sample Location 02,Arcadia Library
+101,MONDAY,"Avenue Library, Manchester",M9 6HW,3,S003,Avenue,Sample Location 03,Avenue Library
+101,MONDAY,"Barlow Moor Library, Manchester",M21 7NT,4,S004,Barlow Moor,Sample Location 04,Barlow Moor Library
+101,MONDAY,"Beswick Library, Manchester",M11 3DS,5,S005,Beswick,Sample Location 05,Beswick Library
+101,MONDAY,"Brooklands Library, Manchester",M23 9BP,6,S006,Brooklands,Sample Location 06,Brooklands Library
+101,MONDAY,"Burnage Library, Manchester",M19 1EW,7,S007,Burnage,Sample Location 07,Burnage Library
+101,MONDAY,"Central Library, Manchester",M2 5PD,8,S008,Central Library,Sample Location 08,Central Library
+101,MONDAY,"Chorlton Library, Manchester",M21 9PN,9,S009,Chorlton,Sample Location 09,Chorlton Library
+101,MONDAY,"Didsbury Library, Manchester",M20 2DN,10,S010,Didsbury,Sample Location 10,Didsbury Library
+101,MONDAY,"Fallowfield Library, Manchester",M14 7FB,11,S011,Fallowfield,Sample Location 11,Fallowfield Library
+101,MONDAY,"Forum Library , Manchester",M22 5RX,12,S012,Forum,Sample Location 12,Forum Library 
+101,MONDAY,"Gorton Library, Manchester",M18 8HE,13,S013,Gorton,Sample Location 13,Gorton Library
+101,MONDAY,"Hulme High St Library, Manchester",M15 5NN,14,S014,Hulme High St,Sample Location 14,Hulme High St Library
+101,MONDAY,"Longsight Library, Manchester",M12 4NE,15,S015,Longsight,Sample Location 15,Longsight Library
+101,MONDAY,"Miles Platting Community Library, Manchester",M40 7LJ,16,S016,Miles Platting,Sample Location 16,Miles Platting Community Library
+101,MONDAY,"Moss Side Powerhouse Library, Manchester",M14 4SL,17,S017,MS Powerhouse,Sample Location 17,Moss Side Powerhouse Library
+101,MONDAY,"New Moston Library, Manchester",M40 3PJ,18,S018,New Moston,Sample Location 18,New Moston Library
+101,MONDAY,"Newton Heath Library, Manchester",M40 2JB,19,S019,Newton Heath,Sample Location 19,Newton Heath Library
+101,MONDAY,"Northenden Community Library, Manchester",M22 4DJ,20,S020,Northenden,Sample Location 20,Northenden Community Library
+101,MONDAY,"North City Library, Manchester",M9 4AF,21,S021,North City,Sample Location 21,North City Library
+101,MONDAY,"Withington Library, Manchester",M20 3BN,22,S022,Withington,Sample Location 22,Withington Library
+101,MONDAY,"Zion Arts Centre, Manchester",M15 4ZY,23,S023,Z Arts,Sample Location 23,Zion Arts Centre
