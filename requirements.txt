@@ -1,0 +1,7 @@
+flask
+pandas
+openpyxl
+folium
+requests
+branca
+ortools
